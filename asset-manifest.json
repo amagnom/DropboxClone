@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/DropboxClone/static/js/main.7f856d86.chunk.js",
+    "main.js.map": "/DropboxClone/static/js/main.7f856d86.chunk.js.map",
+    "runtime-main.js": "/DropboxClone/static/js/runtime-main.e6dc21d9.js",
+    "runtime-main.js.map": "/DropboxClone/static/js/runtime-main.e6dc21d9.js.map",
+    "static/js/2.10fbe463.chunk.js": "/DropboxClone/static/js/2.10fbe463.chunk.js",
+    "static/js/2.10fbe463.chunk.js.map": "/DropboxClone/static/js/2.10fbe463.chunk.js.map",
+    "index.html": "/DropboxClone/index.html",
+    "static/js/2.10fbe463.chunk.js.LICENSE.txt": "/DropboxClone/static/js/2.10fbe463.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6dc21d9.js",
+    "static/js/2.10fbe463.chunk.js",
+    "static/js/main.7f856d86.chunk.js"
+  ]
+}
